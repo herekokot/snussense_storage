@@ -78,7 +78,7 @@ do
         Flags = {},
         MenuKeybind = tostring(Enum.KeyCode.RightShift),
 
-        Directory = "Radiance",
+        Directory = "Snushack",
         Folders = {
             Assets = "/Assets",
             Configs = "/Configs",
